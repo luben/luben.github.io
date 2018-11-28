@@ -12,3 +12,8 @@ Ctags/Etags extractor for Scala languages with support for scope tracking.
 ## [load-progress-bar](https://github.com/luben/load-progress-bar)
 
 Small Firefox web extension to draw minimalistic progress bar. Installable from [addons](https://addons.mozilla.org/en-US/firefox/addon/load-progress-bar/)
+
+
+## [tokio-serde-bincode](https://github.com/luben/tokio-serde-bincode)
+
+Easily serialize/deserialize Tokio streams using bincode format 
