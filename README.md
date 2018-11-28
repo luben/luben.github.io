@@ -16,4 +16,4 @@ Small Firefox web extension to draw minimalistic progress bar. Installable from 
 
 ## [tokio-serde-bincode](https://github.com/luben/tokio-serde-bincode)
 
-Easily serialize/deserialize Tokio streams using bincode format 
+Easily serialize/deserialize Tokio streams using bincode format. Available on [crates.io](https://crates.io/crates/tokio-serde-bincode)
